@@ -5,7 +5,7 @@ This project aims to demonstrate the use of convolutional neural networks (CNNs)
 <center>
 
 <figure>
-<img src="https://github.com/the-infiltrator/interview/blob/main/ML_Engineer/Img2Img/img2img_network.png?raw=true" width="50%">
+<img src="https://github.com/the-infiltrator/Image-Filtering-with-CNNs/blob/master/img2img_network.png?raw=true" width="50%">
 <figcaption>Overview of the Img2Img network with 48 trainable parameters.</figcaption>
 </figure>
 
@@ -95,7 +95,7 @@ Results
 
 | Fig 1. Model Performance on learning a Sobel Filter                                                               | Fig 2. Model Performance on learning a Random Filter                                                                 |
 |-----------------------------------------------------------------------|-----------------------------------------------------------------------|
-| ![Fig 1. Model Performance on learning a Sobel Filter](https://github.com/the-infiltrator/interview/blob/main/ML_Engineer/Img2Img/Results/img2img_outputs_sobel.png?raw=true) | ![Caption for image 2](https://raw.githubusercontent.com/the-infiltrator/interview/main/ML_Engineer/Img2Img/Results/img2img_outputs_randomfilter.png) |
+| ![Fig 1. Model Performance on learning a Sobel Filter](https://github.com/the-infiltrator/Image-Filtering-with-CNNs/blob/master/Results/img2img_outputs_sobel.png?raw=true) | ![Fig 2. Model Performance on learning a Random Filter ](https://github.com/the-infiltrator/Image-Filtering-with-CNNs/blob/master/Results/img2img_outputs_randomfilter.png?raw=true) |
 
 
 
@@ -115,7 +115,7 @@ The model is trained using the L1 loss function and optimized with the Adam opti
 
 | Fig 1. Learning a Sobel Filter                                                               | Fig 2. Learning a Random Filter                                                                 |
 |-----------------------------------------------------------------------|-----------------------------------------------------------------------|
-| ![Fig 1. Model Performance on learning a Sobel Filter](https://github.com/the-infiltrator/interview/blob/main/ML_Engineer/Img2Img/Results/sobel_training_curve.png?raw=true) | ![Caption for image 2](https://github.com/the-infiltrator/interview/blob/main/ML_Engineer/Img2Img/Results/randomfilter_training_curve.png?raw=true) |
+| ![Fig 1. Model Performance on learning a Sobel Filter](https://github.com/the-infiltrator/Image-Filtering-with-CNNs/blob/master/Results/sobel_training_curve.png?raw=true) | ![Caption for image 2](https://github.com/the-infiltrator/Image-Filtering-with-CNNs/blob/master/Results/randomfilter_training_curve.png?raw=true) |
 
 
 
